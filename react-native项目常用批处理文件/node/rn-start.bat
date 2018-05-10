@@ -1,2 +1,1 @@
-react-native start
-pause
+start cmd /k "react-native start"
