@@ -1,2 +1,1 @@
-react-native run-android
-pause
+start cmd /k "react-native run-android"
