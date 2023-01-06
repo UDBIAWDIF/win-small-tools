@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\runcmd]
+"Icon"="c:\\windows\\system32\\cmd.exe"
+"MUIVerb"="√¸¡ÓÃ· æ∑˚"
+"NoWorkingDirectory"=""
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\runcmd\command]
+@="cmd.exe /k pushd \"%V\""
